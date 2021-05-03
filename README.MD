@@ -1,2 +1,34 @@
 # EoJ翻译项目
-Part1缺失，日后重置时补档。
+![GitHub last commit](https://img.shields.io/github/last-commit/eigeen/EoJ_CN_Subtitles?label=%E6%9C%80%E5%90%8E%E6%8F%90%E4%BA%A4)
+![Status](https://img.shields.io/badge/状态-更新中-brightgreen)
+
+## Case1 Ep1
+
+Ep1资源缺失，日后重置时补档。
+
+成品：https://www.bilibili.com/video/BV1K4411K75w
+
+> Youtube原视频: https://www.youtube.com/watch?v=Vg9Tvw0AScQ
+
+
+
+## Case1 Ep2
+
+成品：https://www.bilibili.com/video/BV1fV411z7av
+
+> Youtube原视频: https://www.youtube.com/watch?v=ur2rIh3q3d0
+
+
+
+## Case1 Ep3
+
+成品：https://www.bilibili.com/video/BV1Jf4y1e7r7
+
+> Youtube原视频: https://www.youtube.com/watch?v=4OHAS4wVHrM
+
+
+
+## 附加
+
+网盘资源（原视频）：https://cloud.189.cn/t/jeEjYjANzmUz
+
