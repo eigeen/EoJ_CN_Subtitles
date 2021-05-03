@@ -1,6 +1,6 @@
 # EoJ翻译项目
 ![GitHub last commit](https://img.shields.io/github/last-commit/eigeen/EoJ_CN_Subtitles?label=%E6%9C%80%E5%90%8E%E6%8F%90%E4%BA%A4)
-![Status](https://img.shields.io/badge/状态-更新中-brightgreen)
+![Status](https://img.shields.io/badge/状态-更新中-yellow)
 
 ## Case1 Ep1
 
