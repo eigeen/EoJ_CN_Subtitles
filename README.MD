@@ -2,7 +2,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/eigeen/EoJ_CN_Subtitles?label=%E6%9C%80%E5%90%8E%E6%8F%90%E4%BA%A4)
 ![Status](https://img.shields.io/badge/状态-更新中-yellow)
 
-## Case1 Ep1
+## 第一话 「逆转剧院」
+### Case1 Ep1
 
 Ep1资源缺失，日后重置时补档。
 
@@ -12,7 +13,7 @@ Ep1资源缺失，日后重置时补档。
 
 
 
-## Case1 Ep2
+### Case1 Ep2
 
 成品：https://www.bilibili.com/video/BV1fV411z7av
 
@@ -20,13 +21,19 @@ Ep1资源缺失，日后重置时补档。
 
 
 
-## Case1 Ep3
+### Case1 Ep3
 
 成品：https://www.bilibili.com/video/BV1Jf4y1e7r7
 
 > Youtube原视频: https://www.youtube.com/watch?v=4OHAS4wVHrM
 
+## 第二话 「逆转的远征」
 
+### Case2 Ep1
+
+成品：https://www.bilibili.com/video/BV1LU4y1t7tp
+
+> Youtube原视频：https://www.youtube.com/watch?v=JRIBGB1vU90
 
 ## 附加
 
