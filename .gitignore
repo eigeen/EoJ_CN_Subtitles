@@ -1,5 +1,6 @@
 # Media
 *.mp4
+*.mkv
 
 # Cache
 *.orig
