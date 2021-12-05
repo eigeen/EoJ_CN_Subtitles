@@ -9,7 +9,7 @@ Ep1资源缺失，日后重置时补档。
 
 成品：https://www.bilibili.com/video/BV1K4411K75w
 
-> Youtube原视频: https://www.youtube.com/watch?v=Vg9Tvw0AScQ
+原视频: https://www.youtube.com/watch?v=Vg9Tvw0AScQ
 
 
 
@@ -17,7 +17,7 @@ Ep1资源缺失，日后重置时补档。
 
 成品：https://www.bilibili.com/video/BV1fV411z7av
 
-> Youtube原视频: https://www.youtube.com/watch?v=ur2rIh3q3d0
+原视频: https://www.youtube.com/watch?v=ur2rIh3q3d0
 
 
 
@@ -25,7 +25,7 @@ Ep1资源缺失，日后重置时补档。
 
 成品：https://www.bilibili.com/video/BV1Jf4y1e7r7
 
-> Youtube原视频: https://www.youtube.com/watch?v=4OHAS4wVHrM
+原视频: https://www.youtube.com/watch?v=4OHAS4wVHrM
 
 
 
@@ -35,7 +35,7 @@ Ep1资源缺失，日后重置时补档。
 
 成品：https://www.bilibili.com/video/BV1LU4y1t7tp
 
-> Youtube原视频：https://www.youtube.com/watch?v=JRIBGB1vU90
+原视频：https://www.youtube.com/watch?v=JRIBGB1vU90
 
 
 
@@ -43,11 +43,19 @@ Ep1资源缺失，日后重置时补档。
 
 成品：https://www.bilibili.com/video/BV1JK4y1G7aE
 
-> Youtube原视频：https://www.youtube.com/watch?v=4nzlJPpeU3g
+原视频：https://www.youtube.com/watch?v=4nzlJPpeU3g
 
 
 
-## 附加 Addition
+### Case2 Ep3
+
+成品：https://www.bilibili.com/video/BV1dg411A7UL
+
+原视频：https://www.youtube.com/watch?v=6dHeXYgVzPw
+
+
+
+## 附加内容 Addition
 
 网盘资源（原视频）：https://cloud.189.cn/t/jeEjYjANzmUz
 
