@@ -55,6 +55,18 @@ Ep1资源缺失，日后重置时补档。
 
 
 
+# EoJ番外篇
+
+## Story 1
+
+成品：https://www.bilibili.com/video/BV1cu411S78s
+
+原视频：https://www.youtube.com/watch?v=oqFH7IEDrCA
+
+
+
+
+
 ## 附加内容 Addition
 
 网盘资源（原视频）：https://cloud.189.cn/t/jeEjYjANzmUz
