@@ -55,6 +55,14 @@ Ep1资源缺失，日后重置时补档。
 
 
 
+### Case2 EP4
+
+成品：https://www.bilibili.com/video/BV1JR4y177xt
+
+原视频：https://www.youtube.com/watch?v=BPd3QEA6yk0
+
+
+
 # EoJ番外篇
 
 ## Story 1
